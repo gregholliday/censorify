@@ -1,9 +1,14 @@
 {
     "author":"Greg Holldiay",
-    "name":"censorfiy",
+    "name":"censorify",
     "version":"0.1.1",
     "description":"Censors words out of text",
     "main":"censortext",
+    "respository":{
+        "type":"git",
+        "url": "https://github.com/gregholliday/censorify.git"
+    },
+    "keywords":["cnesor","words"],
     "dependencies": {},
     "engines":{
         "node":"*"
